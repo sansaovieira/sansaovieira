@@ -16,10 +16,10 @@
 ##  Redes sociais:
 <div>
   <a href = "Sansão Vieira: vieirasansao42@gmail.com">
-    <img width="30" src="https://www.flaticon.com/br/icone-premium/gmail_1313655?term=gmail&page=1&position=82&page=1&position=82&related_id=1313655&origin=search">
+    <img src="img/icone/gmail.png" alt="email">
   </a>
   <a href = "https://www.linkedin.com/in/sans%C3%A3o-vieira-ab0b40220/">
-    <img width="25" src="https://www.flaticon.com/br/icone-gratis/linkedin_255319?term=linkedin&page=1&position=84&page=1&position=84&related_id=255319&origin=search">
+    <img src="img/icone/linkidn.png" alt="Linkedin">
   </a>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
