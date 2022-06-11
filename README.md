@@ -1,16 +1,13 @@
-## Olá, Desenvolvedores! Eu sou o Sansão Vieira!
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 ##  Codar é um modo de pensar
 <div style="display: flex; justificar-conteúdo: espaço entre;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
-  <img align="center" height="30" width="40" alt="js-icon" src="https://www.flaticon.com/br/icone-gratis/formato-js_2305893?term=javascript%20js&page=1&position=17&page=1&position=17&related_id=2305893&origin=search">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://www.flaticon.com/br/icone-gratis/html_1197396?term=html&page=1&position=51&page=1&position=51&related_id=1197396&origin=search">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://www.flaticon.com/br/icone-premium/arquivo-css_2786979?term=css&page=1&position=10&page=1&position=10&related_id=2786979&origin=search">
+  <img align="center" height="30" width="40" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="30" width="40" alt="html-icon" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="30" width="40" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" height="30" width="40" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" height="30" width="40" alt="sql-icon" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 
 ##  Redes sociais:
@@ -24,8 +21,6 @@
   <a href = "Sansão Slow: +55(11)93905-1373">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
