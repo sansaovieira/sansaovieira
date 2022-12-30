@@ -33,4 +33,4 @@
   <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="20" width="80" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
    </div>
- ![Snake animation](https://github.com/sansaovieira/sansaovieira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/sansaovieira/sansaovieira/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
