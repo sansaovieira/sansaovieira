@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-##  Coding is a way of thinking
+##  Coding is a way to thinking
 <div style="display: flex; justificar-conteúdo: espaço entre;">
    <img align="center" height="20" width="80" alt="html-icon" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
