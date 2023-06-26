@@ -4,11 +4,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 ##  Coding is a way of thinking
-<div style="display: flex; justificar-conteúdo: espaço entre;"> <br>
+<div style="display: flex; justificar-conteúdo: espaço entre;">
    <img align="center" height="20" width="80" alt="html-icon" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/Materialize-239120?&style=for-the-badge&logo=Materialize&logoColor=white">
   <img align="center" height="20" width="80" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/Angular%20Material-239120?&style=for-the-badge&logo=Angular&logoColor=white">
   <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
   <img align="center" height="20" width="80" alt="angular-icon"src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=ANGULAR&logoColor=white">
 </div>
 ##  Social media:
@@ -28,6 +31,7 @@
   <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="20" width="80" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
   <img align="center" height="20" width="80" alt="angular-icon"src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=ANGULAR&logoColor=white">
    </div>
 
