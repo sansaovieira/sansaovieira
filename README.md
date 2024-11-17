@@ -31,7 +31,7 @@
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src=https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif>
+    <img align="left" height="250" alt="coding-time" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
     <h1 align="center">Most used technologies </h1>
   <img align="center" height="20" width="80" alt="java-icon" src="https://img.shields.io/badge/JAVA-239120?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" height="20" width="80" alt="spring-icon" src="https://img.shields.io/badge/SPRING-239120?&style=for-the-badge&logo=spring&logoColor=white">
