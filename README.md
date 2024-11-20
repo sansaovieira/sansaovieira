@@ -2,8 +2,9 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-##  Coding is a way to thinking
+</div><br />
+<h4>Coding is a way to thinking</h4>
+<hr />
 <div style="display: flex; justificar-conteúdo: espaço entre;">
   <img align="center" height="20" width="80" alt="java-icon" src="https://img.shields.io/badge/JAVA-239120?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" height="20" width="80" alt="spring-icon" src="https://img.shields.io/badge/SPRING-239120?&style=for-the-badge&logo=spring&logoColor=white">
@@ -19,8 +20,9 @@
   <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/Materialize-239120?&style=for-the-badge&logo=Materialize&logoColor=white">
   <img align="center" height="20" width="80" alt="tailwindcss-icon"src="https://img.shields.io/badge/TAILWIND CSS-239120?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img align="center" height="20" width="80" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-##  Social media:
+</div><br />
+<h4>Social media:</h4>
+<hr />
 <div>
   <a href = "vieirasansao42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
@@ -32,7 +34,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
-    <h1 align="center">Most used technologies </h1>
+  <h4>Most used technologies</h4>
   <img align="center" height="20" width="80" alt="java-icon" src="https://img.shields.io/badge/JAVA-239120?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" height="20" width="80" alt="spring-icon" src="https://img.shields.io/badge/SPRING-239120?&style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" height="20" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MYSQL-563D7C?style=for-the-badge&logo=mysql&logoColor=white">
