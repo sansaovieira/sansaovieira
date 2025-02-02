@@ -1,49 +1,68 @@
-## Hello, Developers! I'm Sansão Vieira!
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div><br />
-<h4>Coding is a way to thinking</h4>
-<hr />
-<div style="display: flex; justificar-conteúdo: espaço entre;">
-  <img align="center" height="20" width="80" alt="java-icon" src="https://img.shields.io/badge/JAVA-239120?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" height="20" width="80" alt="spring-icon" src="https://img.shields.io/badge/SPRING-239120?&style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" height="20" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MYSQL-563D7C?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" height="20" width="80" alt="nodejs-icon" src="https://img.shields.io/badge/NODE JS-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black">
-  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
-  <img align="center" height="20" width="80" alt="angular-icon"src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=angular&logoColor=white"><br />
-  <img align="center" height="20" width="80" alt="react-icon"src="https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" height="20" width="80" alt="nextjs-icon"src="https://img.shields.io/badge/NEXT JS-239120?style=for-the-badge&logo=nextjs&logoColor=white">
-  <img align="center" height="20" width="80" alt="html-icon" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="20" width="80" alt="css-icon" src="https://img.shields.io/badge/Materialize-239120?&style=for-the-badge&logo=Materialize&logoColor=white">
-  <img align="center" height="20" width="80" alt="tailwindcss-icon"src="https://img.shields.io/badge/TAILWIND CSS-239120?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img align="center" height="20" width="80" alt="bootstrip-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div><br />
-<h4>Social media:</h4>
-<hr />
-<div>
-  <a href = "vieirasansao42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-  </a>
-  <a href = "https://www.linkedin.com/in/sansaovieira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-</div>
+### Hello! I'm Sansão Dembué Vieira 👋
+
+### 💻 Systems Analyst | Fullstack Developer | Software Engineer
+
+Fullstack Developer with experience in **Java + React**, passionate about technology, problem-solving, and continuous learning.
+
+### 📌 About Me
+
+🗓 **Date of Birth:** 12/02/1998  
+🌍 **Nationality:** Angolan  
+👨‍💻 **Gender:** Male  
+📍 **Location:** São Paulo, Brazil  
+📩 **Email:** vieirasansao42@gmail.com  
+🌐 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/sansaovieira/)
+💬 **WhatsApp:** +55 (11) 93905-1373  
+
+### 💡 Skills & Technologies
+
 <div align="center">
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
-  <h4>Most used technologies</h4>
-  <img align="center" height="20" width="80" alt="java-icon" src="https://img.shields.io/badge/JAVA-239120?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" height="20" width="80" alt="spring-icon" src="https://img.shields.io/badge/SPRING-239120?&style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" height="20" width="80" alt="mysql-icon" src="https://img.shields.io/badge/MYSQL-563D7C?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" height="20" width="80" alt="nodejs-icon" src="https://img.shields.io/badge/NODE JS-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black">
-  <img align="center" height="20" width="80" alt="js-icon" src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
-  <img align="center" height="20" width="80" alt="angular-icon"src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" height="20" width="80" alt="react-icon"src="https://img.shields.io/badge/REACT-239120?style=for-the-badge&logo=react&logoColor=white">
-  <img align="center" height="20" width="80" alt="nextjs-icon"src="https://img.shields.io/badge/NEXT JS-239120?style=for-the-badge&logo=nextjs&logoColor=white">
-  <img align="center" height="20" width="80" alt="tailwindcss-icon"src="https://img.shields.io/badge/TAILWIND CSS-239120?style=for-the-badge&logo=tailwindcss&logoColor=white">
-   </div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</div>
+
+### 💼 Work Experience
+
+#### 🔹 **Software Analyst | NTT DATA** (10/2022 – 05/2024) - São Paulo, Brazil  
+- Developed frontend for a critical NOC and SOC application using **Angular, TypeScript, and Sass**.  
+- Refactored login flow for mobile devices, improving security with **JWT, React, Redux, and NestJS**.  
+- Reduced login request response time by **30%** and increased user satisfaction by **25%**.  
+- Listed all incident data required by NOC/SOC teams, filtering by category, status, and severity.  
+
+#### 🔹 **Volunteer IT Teacher** (02/2019 – 03/2022) - Luanda, Angola  
+- Taught basic IT concepts and Microsoft Office tools, reducing technological illiteracy in the community.  
+
+### 🚀 Projects
+
+#### **📌 Personal Blog (Fullstack Application)**  
+- **Backend Repository:** [GitHub](https://github.com/sansaovieira/blogpessoal)  
+- **Frontend Repository:** [GitHub](https://github.com/sansaovieira/frontend-blogpessoal/tree/task-feature-improvment)  
+- **Live Site:** [Deployed Version](https://frontend-blogpessoal-fmupyafrh-sansao-vieiras-projects.vercel.app)  
+
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansaovieira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansaovieira&layout=compact&langs_count=16&theme=great-gatsby" alt="Most Used Languages"/>
+</div>
+
+## 🏆 Motivational Quote
+
+> "To be better ever single day."
+> — Kobe Bryant 🏀🔥
+
+<div align="center">
+  <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <h4>"Coding is a way of thinking."</h4>
+</div>
+
 
