@@ -5,7 +5,7 @@ Fullstack Developer with experience in **Java + React**, passionate about techno
 ### 📌 About Me
 
 🗓 **Date of Birth:** 12/02/1998  
-🌍 **Nationality:** Angolan  
+🇦🇴 **Nationality:** Angolan  
 👨‍💻 **Gender:** Male  
 📍 **Location:** São Paulo, Brazil  
 📩 **Email:** vieirasansao42@gmail.com  
