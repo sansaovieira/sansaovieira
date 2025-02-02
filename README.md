@@ -10,7 +10,6 @@ Fullstack Developer with experience in **Java + React**, passionate about techno
 📍 **Location:** São Paulo, Brazil  
 📩 **Email:** vieirasansao42@gmail.com  
 🌐 **Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/sansaovieira/)
-💬 **WhatsApp:** +55 (11) 93905-1373  
 
 ### 💡 Skills & Technologies
 
