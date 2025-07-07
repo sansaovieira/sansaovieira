@@ -1,6 +1,6 @@
-### Hello! I'm Sansão Dembué Vieira 👋 |💻 Software Enginner • Java Developer •
+### Hello! I'm Sansão Dembué Vieira 👋 |💻 Software Enginner •  Java Developer  •
 
-Fullstack Developer with experience in **Java + React**, passionate about technology, problem-solving, and continuous learning.
+Java Developer with experience in **Java + React**, passionate about technology, problem-solving, and continuous learning.
 
 ### 📌 About Me
 
