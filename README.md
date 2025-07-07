@@ -1,7 +1,5 @@
 ### Hello! I'm Sansão Dembué Vieira 👋 |💻 Software Enginner •  Java Developer  •
 
-Java Developer with experience in **Java + React**, passionate about technology, problem-solving, and continuous learning.
-
 ### 📌 About Me
 
 🗓 **Date of Birth:** 12/02/1998  
