@@ -1,4 +1,4 @@
-### Hello! I'm Sansão Dembué Vieira 👋 |💻 Software Enginner •  Java Developer  •
+### Hello! I'm Sansão Dembué Vieira 👋 |💻 Software Enginner 
 
 ### 📌 About Me
 
